@@ -19,3 +19,11 @@
   * 在gazebo开启的情况下运行`roslaunch course_agv_gazebo course_agv_world_rviz.launch`
 
 ![](document/images/2.png)
+
+
+
+参考工程:
+
+* [ros-simulation/**gazebo_ros_demos**](https://github.com/ros-simulation/gazebo_ros_demos)
+* [AtsushiSakai/**PythonRobotics**](https://github.com/AtsushiSakai/PythonRobotics)
+
