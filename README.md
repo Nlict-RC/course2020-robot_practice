@@ -1,10 +1,10 @@
 # course_agv source
 
-进度:
-
-*　[x] planning
-*　[ ] icp
-*　[ ] ekf
+> 进度:
+> 
+> * [x] planning
+> * [ ] icp
+> * [ ] ekf
 
 * 安装python-catkin-tools
   * catkin build进行编译
